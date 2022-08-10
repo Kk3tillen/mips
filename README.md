@@ -4,7 +4,8 @@ Trabalho desenvolvido na disciplina de Organização e Manutenção de Computado
 * ULA
 * Banco de registradores com 32 bits 
 
-### Criadoras
+### Criadores
 * Kézia Ketillen Santos Lima (20201114010075)
 * Fernanda Jamily Aquinon Silva (20201114010024)
 * Maria Fancielen Barros de Menezes (20201114010065)
+* Fábio Kellyton Pereira Bezerra (20201114010045)
