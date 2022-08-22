@@ -1,10 +1,16 @@
 # Circuitos Lógicos Processador
 
-Trabalho desenvolvido na disciplina de Organização e Manutenção de Computadores do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte/Campus Santa Cruz, voltado para a criação de um processador com os seguintes componentes: 
+Trabalho desenvolvido na disciplina de Organização e Manutenção de Computadores do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte/Campus Santa Cruz, voltado para a criação de um processador.
+
+## componentes
 * ULA
 * Banco de registradores com 32 bits
 * Processador
 * Separador 
+* NextPC
+* CircuitoVD
+* ULAsegundoOperando
+
 
 ### Criadores
 * Kézia Ketillen Santos Lima (20201114010075)
