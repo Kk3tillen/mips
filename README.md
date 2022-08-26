@@ -1,6 +1,6 @@
 # Circuitos Lógicos Processador
 
-Projeto desenvolvido na disciplina de Organização e Manutenção de Computadores do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte/Campus Santa Cruz, voltado para a criação de um processador.
+Projeto em desenvolvimento da disciplina de Organização e Manutenção de Computadores do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte/Campus Santa Cruz, voltado para a criação de um processador.
 
 ## Componentes
 - [x] ULA
@@ -9,6 +9,7 @@ Projeto desenvolvido na disciplina de Organização e Manutenção de Computador
 - [x] NextPC
 - [x] CircuitoVD
 - [x] ULAsegundoOperando
+- [ ] Processador
 
 ##
 
