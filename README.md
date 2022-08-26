@@ -3,13 +3,12 @@
 Projeto desenvolvido na disciplina de Organização e Manutenção de Computadores do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte/Campus Santa Cruz, voltado para a criação de um processador.
 
 ## Componentes
-* ULA
-* Banco de registradores com 32 bits
-* Processador
-* Separador 
-* NextPC
-* CircuitoVD
-* ULAsegundoOperando
+- [x] ULA
+- [x] Banco de registradores com 32 bits
+- [x] Separador 
+- [x] NextPC
+- [x] CircuitoVD
+- [x] ULAsegundoOperando
 
 ##
 
