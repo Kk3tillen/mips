@@ -20,4 +20,4 @@ Projeto desenvolvido na disciplina de Organização e Manutenção de Computador
 * Fábio Kellyton Pereira Bezerra (20201114010045)
 
 ### Docente
-* [Hadley Magno da Costa Siqueira](https://github.com/hadley-siqueira)
+ [Hadley Magno da Costa Siqueira](https://github.com/hadley-siqueira)
