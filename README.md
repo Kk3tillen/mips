@@ -1,6 +1,6 @@
 # Circuitos Lógicos Processador
  
-Projeto desenvolvido na disciplina de Organização e Manutenção de Computadores do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte/Campus Santa Cruz, voltado para a criação dos circuitos lógicos que compõe o processador no software Logisim.
+Projeto desenvolvido na disciplina de Organização e Manutenção de Computadores do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte/Campus Santa Cruz, voltado para a criação dos circuitos lógicos que compõe um processador no software Logisim.
  
 ## Circuitos realizados
 * ULA
